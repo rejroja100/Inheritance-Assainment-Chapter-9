@@ -11,8 +11,13 @@ public class ChoiceQuestion extends Question {
         }
     }
 
+    private void addText(String s) {
+
+    }
+
     @Override
     public String toString() {
         return super.toString();
     }
 }
+
