@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ded222e-d88b-4525-97a1-13ab6816cf29" name="Changes" comment="problem p 9.2">
-      <change afterPath="$PROJECT_DIR$/src/BasicAccountB.java" afterDir="false" />
+    <list default="true" id="7ded222e-d88b-4525-97a1-13ab6816cf29" name="Changes" comment="problem p 9.5">
+      <change afterPath="$PROJECT_DIR$/src/LabeledPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.LabeledPoint.executor": "Run",
     "Application.TestProgram.executor": "Run",
     "Application.TestProgramB.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -69,13 +71,39 @@
       <option name="project" value="LOCAL" />
       <updated>1717166612863</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="problem p 9.3">
+      <option name="closed" value="true" />
+      <created>1717167027145</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717167027145</updated>
+    </task>
+    <task id="LOCAL-00004" summary="problem p 9.3">
+      <option name="closed" value="true" />
+      <created>1717171127250</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717171127252</updated>
+    </task>
+    <task id="LOCAL-00005" summary="problem p 9.5">
+      <option name="closed" value="true" />
+      <created>1717171597772</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717171597772</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="problem p 9.1" />
     <MESSAGE value="problem p 9.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem p 9.2" />
+    <MESSAGE value="problem p 9.3" />
+    <MESSAGE value="problem p 9.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem p 9.5" />
   </component>
 </project>
