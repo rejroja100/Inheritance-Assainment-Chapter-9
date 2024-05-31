@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ded222e-d88b-4525-97a1-13ab6816cf29" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssinmentChapter9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestProgram.java" afterDir="false" />
+    <list default="true" id="7ded222e-d88b-4525-97a1-13ab6816cf29" name="Changes" comment="problem p 9.1">
+      <change afterPath="$PROJECT_DIR$/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestProgramB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +39,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.TestProgram.executor": "Run",
+    "Application.TestProgramB.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -60,9 +55,20 @@
       <option name="presentableId" value="Default" />
       <updated>1717164041523</updated>
     </task>
+    <task id="LOCAL-00001" summary="problem p 9.1">
+      <option name="closed" value="true" />
+      <created>1717165048892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717165048892</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="problem p 9.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem p 9.1" />
   </component>
 </project>
