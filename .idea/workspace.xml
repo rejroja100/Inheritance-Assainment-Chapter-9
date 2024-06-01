@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ded222e-d88b-4525-97a1-13ab6816cf29" name="Changes" comment="problem p 9.11">
-      <change afterPath="$PROJECT_DIR$/src/ChoiceQuestion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question.java" afterDir="false" />
+    <list default="true" id="7ded222e-d88b-4525-97a1-13ab6816cf29" name="Changes" comment="problem p 9.10">
+      <change afterPath="$PROJECT_DIR$/src/EmployeeA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717178051479</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="problem p 9.10">
+      <option name="closed" value="true" />
+      <created>1717178514649</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717178514649</updated>
+    </task>
+    <task id="LOCAL-00009" summary="problem p 9.10">
+      <option name="closed" value="true" />
+      <created>1717178533459</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717178533459</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -122,6 +137,7 @@
     <MESSAGE value="problem p 9.5" />
     <MESSAGE value="problem p 9.16" />
     <MESSAGE value="problem p 9.11" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem p 9.11" />
+    <MESSAGE value="problem p 9.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem p 9.10" />
   </component>
 </project>
